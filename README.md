@@ -8,14 +8,7 @@
 
 ## 🌱 I’m currently learning
 
-- Enhanced skills in **experimental data analysis** and **scientific modeling**.
-- Interdisciplinary approaches in modern neuroscience.
-
-## 👯 I’m looking to collaborate on
-
-- Research projects related to **neuroscience**, **AI**, and **scientific modeling**.
-- Open-source projects or internships that involve **data analysis** and **computational neuroscience**.
-- Innovative applications of **AI** in understanding brain function and cognitive processes.
+- Skills in **experimental data analysis** and **scientific modeling** in Python.
 
 ## 📫 How to reach me
 
