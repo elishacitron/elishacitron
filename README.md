@@ -1,16 +1,15 @@
-👋 Hi, I’m @elishacitron
+# 🧠 Elisha Citron
 
-## 👀 I’m interested in
+**MPhil Cognitive Neuroscience @ University of Cambridge**  
+Exploring information flow in brain networks using data science, network modelling, and computational neuroscience.
 
-- **Neuroscience**: Particularly computational models of brain function, AI, and experimental data analysis.
-- **Scientific Modeling**: Exploring how we can simulate and understand complex biological systems.
-- **Data Analysis**: Applying statistical methods and computational tools to interpret and derive insights from complex datasets.
+---
 
-## 🌱 I’m currently learning
+### Interests  
+AI • Data Science • Intelligence  
 
-- Skills in **experimental data analysis** and **scientific modeling** in Python.
+### Skills  
+Python • Statistical Modelling • Data Analysis  
 
-## 📫 How to reach me
-
-- **Email**: [elisha.citron.22@ucl.ac.uk](mailto:elisha.citron.22@ucl.ac.uk)
-- **LinkedIn**: [www.linkedin.com/in/elisha-citron-700037269](https://www.linkedin.com/in/elisha-citron-700037269)
+### Contact  
+[elisha.citron@gmail.com](mailto:elisha.citron@gmail.com)
